@@ -3,13 +3,13 @@ import "./App.css";
 function App() {
 
   return (
-    <div>
+    <div className="caixa">
       <div>
          <h1>Localização</h1>
       </div>
 
       <div>
-        <img src="./" alt="Imagem " />
+        <img src="../../public/images/chuva.png" alt="Imagem " className="iconeClima" />
         <h1>20</h1>
       </div>
        
